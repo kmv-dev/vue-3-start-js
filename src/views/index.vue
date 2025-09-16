@@ -1,6 +1,5 @@
+<script setup lang="ts"></script>
+
 <template>
-  <div>
-    <h1>go</h1>
-    <PrimeButton>Go</PrimeButton>
-  </div>
+  <main class="w-full flex justyfy-center"><Button>Start</Button></main>
 </template>
